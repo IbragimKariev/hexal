@@ -1,0 +1,1112 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Semibold.eot');
+    src: url('../fonts/Lato-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Semibold.woff2') format('woff2'),
+    url('../fonts/Lato-Semibold.woff') format('woff'),
+    url('../fonts/Lato-Semibold.ttf') format('truetype'),
+    url('../fonts/Lato-Semibold.svg#Lato-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Medium.eot');
+    src: url('../fonts/Lato-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Medium.woff2') format('woff2'),
+    url('../fonts/Lato-Medium.woff') format('woff'),
+    url('../fonts/Lato-Medium.ttf') format('truetype'),
+    url('../fonts/Lato-Medium.svg#Lato-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.eot');
+    src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Regular.woff2') format('woff2'),
+    url('../fonts/Lato-Regular.woff') format('woff'),
+    url('../fonts/Lato-Regular.ttf') format('truetype'),
+    url('../fonts/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Bold.woff2') format('woff2'),
+    url('../fonts/Lato-Bold.woff') format('woff'),
+    url('../fonts/Lato-Bold.ttf') format('truetype'),
+    url('../fonts/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Light.eot');
+    src: url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Light.woff2') format('woff2'),
+    url('../fonts/Lato-Light.woff') format('woff'),
+    url('../fonts/Lato-Light.ttf') format('truetype'),
+    url('../fonts/Lato-Light.svg#Lato-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProRegular.eot');
+    src: url('../fonts/MavenProRegular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MavenProRegular.woff2') format('woff2'),
+    url('../fonts/MavenProRegular.woff') format('woff'),
+    url('../fonts/MavenProRegular.ttf') format('truetype'),
+    url('../fonts/MavenProRegular.svg#MavenProRegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProBlack.eot');
+    src: url('../fonts/MavenProBlack.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MavenProBlack.woff2') format('woff2'),
+    url('../fonts/MavenProBlack.woff') format('woff'),
+    url('../fonts/MavenProBlack.ttf') format('truetype'),
+    url('../fonts/MavenProBlack.svg#MavenProBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProBold.eot');
+    src: url('../fonts/MavenProBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MavenProBold.woff2') format('woff2'),
+    url('../fonts/MavenProBold.woff') format('woff'),
+    url('../fonts/MavenProBold.ttf') format('truetype'),
+    url('../fonts/MavenProBold.svg#MavenProBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProMedium.eot');
+    src: url('../fonts/MavenProMedium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MavenProMedium.woff2') format('woff2'),
+    url('../fonts/MavenProMedium.woff') format('woff'),
+    url('../fonts/MavenProMedium.ttf') format('truetype'),
+    url('../fonts/MavenProMedium.svg#MavenProMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Black.eot');
+    src: url('../fonts/Lato-Black.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Black.woff2') format('woff2'),
+    url('../fonts/Lato-Black.woff') format('woff'),
+    url('../fonts/Lato-Black.ttf') format('truetype'),
+    url('../fonts/Lato-Black.svg#Lato-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'fontello';
+    src: url('../fonts/fontello.eot?90172926');
+    src: url('../fonts/fontello.eot?90172926#iefix') format('embedded-opentype'),
+    url('../fonts/fontello.woff2?90172926') format('woff2'),
+    url('../fonts/fontello.woff?90172926') format('woff'),
+    url('../fonts/fontello.ttf?90172926') format('truetype'),
+    url('../fonts/fontello.svg?90172926#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?90172926#fontello') format('svg');
+  }
+}
+*/
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    /* opacity: .8; */
+
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+
+    /* fix buttons height, for twitter bootstrap */
+    line-height: 1em;
+
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    margin-left: .2em;
+
+    /* you can be more comfortable with increased icons size */
+    /* font-size: 120%; */
+
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-location:before {
+    content: '\e800';
+}
+
+/* '' */
+.icon-phone:before {
+    content: '\e801';
+}
+
+/* '' */
+.icon-mail:before {
+    content: '\e802';
+}
+
+/* '' */
+.icon-twitter-1:before {
+    content: '\f099';
+}
+
+/* '' */
+.icon-facebook-1:before {
+    content: '\f09a';
+}
+
+/* '' */
+.icon-dribbble:before {
+    content: '\f17d';
+}
+
+/* '' */
+.icon-pinterest:before {
+    content: '\f231';
+}
+
+/* '' */
+.icon-twitter:before {
+    content: '\f309';
+}
+
+/* '' */
+.icon-gplus:before {
+    content: '\f30f';
+}
+
+/* '' */
+.icon-linkedin:before {
+    content: '\f318';
+}
+
+/* '' */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+img:not(.logo) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.menu-list-content:hover {
+    color: #2eb398;
+}
+
+.main {
+    height: 63px;
+    background: #323232;
+    position: relative;
+}
+
+.main:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 26px 45.5px 0 45.5px;
+    border-color: #323232 transparent transparent transparent;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -26px;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    margin-bottom: 88px;
+    padding-top: 6px;
+
+}
+
+.menu_list {
+    display: flex;
+    padding-top: 24px;
+    font-family: 'lato';
+    font-weight: 700;
+    font-size: 1.0rem;
+    position: relative;
+}
+
+.menu_list:before {
+    content: '';
+    width: 2px;
+    height: 2px;
+    border-radius: 50px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 76px
+}
+
+.menu_list:after {
+    content: '';
+    width: 2px;
+    height: 2px;
+    border-radius: 50px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    right: 80px
+}
+
+.menu-list-content {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu_list_item:not(:last-child) {
+    margin-right: 26px;
+}
+
+.menu_list_item {
+    list-style-type: none;
+    color: #FFFFFF;
+}
+.menu_list_item:nth-child(-n+2){
+    position: relative;
+    top: 0px;
+    left: 8px;
+}
+.menu_list_item .logo {
+    position: relative;
+    top: -20px;
+    left:3px ;
+    padding: 0 15px;
+}
+
+.menu_list_item .logo:hover {
+    transform: scale(1.2);
+    transition: all 0.6s;
+}
+
+.hexagon {
+    width: 180px;
+    height: 209px;
+
+    transform: rotate(120deg);
+    overflow: hidden;
+    margin: 10px;
+}
+
+.hexagon:hover {
+    filter: grayscale(0.75);
+    transition: all 0.6s;
+    cursor: pointer;
+
+}
+
+.layer-1 {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+}
+
+.layer-2 {
+    width: 100%;
+    height: 100%;
+    background: #6c757d;
+    transform: rotate(-60deg);
+
+}
+
+.hexagon img {
+    width: 100%;
+    height: 100%;
+}
+
+.box-row {
+    display: flex;
+    justify-content: center;
+}
+
+.box-row:not(:first-child) {
+    margin-top: -60px;
+}
+
+#hexagon {
+    padding: 77px 0;
+    position: relative;
+}
+
+#hexagon:before {
+    content: '';
+    width: 960px;
+    height: 1px;
+    background: #e4e9eb;
+    position: absolute;
+    bottom: 10px;
+    left: calc(50% - 480px);
+}
+
+.hex-wrapper {
+    position: relative;
+}
+
+.hex-wrapper:before {
+    content: '';
+    width: 410px;
+    height: 1px;
+    background: #e4e9eb;
+    position: absolute;
+    top: -68px;
+    left: 194px;
+}
+
+.hex-wrapper:after {
+    content: '';
+    width: 410px;
+    height: 1px;
+    background: #e4e9eb;
+    position: absolute;
+    top: -68px;
+    right: 194px;
+}
+
+.first-hex {
+    position: relative;
+}
+
+.first-hex:before {
+    content: '';
+    width: 105px;
+    height: 1px;
+    background: #e4e9eb;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 50%;
+    left: 16%;
+}
+
+.first-hex:after {
+    content: '';
+    width: 105px;
+    height: 1px;
+    background: #e4e9eb;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 114px;
+    right: 212px;
+}
+
+.second-hex {
+    position: relative;
+}
+
+.second-hex:before {
+    content: '';
+    width: 105px;
+    height: 1px;
+    background: #e4e9eb;
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 113px;
+    left: 212px;
+}
+
+.second-hex:after {
+    content: '';
+    width: 105px;
+    height: 1px;
+    background: #e4e9eb;
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 113px;
+    right: 212px;
+}
+
+.owl-carousel .owl-dot span {
+    width: 6px;
+    height: 6px;
+    background: #ddd2c5 !important;
+    margin-right: 2px;
+    display: inline-block;
+}
+
+.owl-dots {
+    position: absolute;
+    bottom: 0px;
+    left: 192px;
+}
+
+.owl-carousel .owl-dot.active span {
+    background: #8b8784 !important;
+}
+
+:focus {
+    outline: none;
+}
+
+
+#about {
+    min-height: 303px;
+    width: 100%;
+    height: 100%;
+    background: #2eb398;
+
+    padding-bottom: 38px;
+}
+
+.hex-about {
+    margin-top: 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container {
+    max-width: 820px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+    padding-bottom: 11px;
+    padding-top: 51px;
+
+
+}
+
+.content-about {
+    display: flex;
+    position: relative;
+}
+
+.content-about:before {
+    content: '';
+    width: 318px;
+    height: 1px;
+    background: #219d84;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 118px;
+    left: -179px;
+}
+
+.content-about:after {
+    content: '';
+    width: 318px;
+    height: 1px;
+    background: #219d84;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 118px;
+    right: -179px;
+}
+
+.content-text {
+    padding-left: 19px;
+    padding-top: 10px;
+    padding-right: 1px;
+}
+
+.content-text h1 {
+    font-family: 'Maven Pro';
+    font-weight: 400;
+    font-size: 3.0rem;
+    color: #d7fcf5;
+}
+
+.social:hover {
+    transform: scale(1.4);
+    transition: all 0.6s;
+    background: #00BFFF;
+    border-radius: 5px;
+
+}
+
+.content-text h2 {
+
+    font-family: 'Maven Pro';
+    font-weight: 400;
+    font-size: 1.8rem;
+    color: #20816d;
+    margin-bottom: 13px;
+    margin-top: -2px;
+}
+
+.content-text p {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #d7fcf5;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.content-about .hexagon {
+    min-width: 180px;
+}
+
+.content-contacts h1 {
+    font-family: 'Maven Pro';
+    font-weight: 400;
+    font-size: 3.0rem;
+    color: #e0e0e0;
+    width: 100%;
+
+    margin-top: -7px;
+
+}
+
+.content-contacts h2 {
+    font-family: 'Maven Pro';
+    width: 100%;
+    font-weight: 400;
+    font-size: 1.8rem;
+    color: #bebebe;
+    margin-top: -2px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+
+}
+
+.social-box {
+    margin-top: 41px;
+    font-size: 1.4rem;
+    margin-right: 3px;
+}
+
+
+.facebook {
+    background: #a5dbd4;
+    color: #19b29e;
+}
+
+.twitter {
+    background: #6ccbbe;
+    color: #03ac95;
+}
+
+.google {
+    background: #7ed0c5;
+    color: #32baa8;
+}
+
+.pinterest {
+    background: #abddd7;
+    color: #13b19b;
+}
+
+.linkedin {
+    background: #acddd7;
+    color: #09ae97;
+}
+
+.dribble {
+    background: #6ccbbe;
+    color: #09ae97;
+}
+
+.content-text ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+#contacts {
+    padding-top: 20px;
+    padding-bottom: 70px;
+    background: #323232;
+    position: relative;
+
+}
+
+#contacts:before {
+    content: '';
+    width: 960px;
+    height: 1px;
+    background: #2b2b2b;
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 480px);
+}
+
+#contacts:after {
+    content: '';
+    width: 960px;
+    height: 1px;
+    background: #2b2b2b;
+    position: absolute;
+    bottom: 10px;
+    left: calc(50% - 480px);
+}
+
+
+.contacts-form {
+    min-width: 566px;
+}
+
+.contacts-form-right {
+    width: 40%;
+    height: 100px;
+    margin-left: 35px;
+
+}
+
+.contacts-form-right li {
+    line-height: 20px;
+}
+
+.input {
+    display: flex;
+    margin-top: 16px;
+}
+
+.input-contact {
+    height: 40px;
+    width: 100%;
+    border: 1px;
+    background: #454545;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+.input-contact:focus {
+    outline: none;
+    border: 1px #8FBC8F;
+}
+
+#textarea {
+    width: 100%;
+    height: 140px;
+    background: #454545;
+    padding-left: 15px;
+    border: 1px;
+    padding-top: 10px;
+}
+
+#textarea:focus {
+    outline: none;
+}
+
+#submit {
+    width: 90px;
+    height: 40px;
+    border: 1px;
+    background: #2eb398;
+    color: #e0e0e0;
+    float: right;
+    font-family: 'lato';
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 12px;
+    margin-right: -15px;
+    cursor: pointer;
+
+}
+
+#submit:hover {
+    background: #40E0D0;
+}
+
+::placeholder {
+    color: #bebebe;
+    font-family: 'lato';
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.contacts-form-right p {
+    font-family: 'lato';
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: -5px;
+    color: #e0e0e0;
+    line-height: 21px;
+    margin-bottom: 37px;
+    text-align: justify;
+}
+
+.first-span {
+    font-family: 'Lato';
+    font-weight: 900;
+    color: #e0e0e0;
+    font-size: 1.2rem;
+
+}
+
+.content-text li {
+    list-style: none;
+}
+
+.second-spam {
+    font-family: 'lato';
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #e0e0e0;
+}
+
+.contacts-form-right li {
+    text-decoration: none;
+    color: #e0e0e0;
+    font-family: 'lato';
+    font-weight: 700;
+    font-size: 1.2rem;
+    list-style-type: none;
+    line-height: 20px;
+
+}
+
+.contacts-form-right i {
+    color: #2eb398;
+}
+
+.contacts-form-right ul {
+    padding: 0;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    background: #222222;
+
+    display: flex;
+}
+
+footer h1 {
+    font-family: 'Maven Pro';
+    color: #454545;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-left: 10px;
+
+}
+
+.footer {
+    min-width: 820px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+.white-popup{
+    position: relative;
+    background: #fff;
+    padding: 20px;
+    width: auto;
+    max-width: 500px;
+    margin: 20px auto;
+
+}
+.menu-btn{
+    display: block;
+    height: 50px;
+    width: 50px;
+
+
+}
+.logo2{
+    transform: rotate(270deg);
+}
+.mobile-menu{
+    display: none;
+}
+@media (max-width: 480px) {
+    .footer{
+        min-width: 0;
+    }
+    .menu-wrap {
+        display: none;
+    }
+    .mobile-menu{
+        display: block;
+        transition: 0.6s;
+        z-index: 99999;
+    }
+    .menu-wrap.menu-active {
+
+        position: fixed;
+        background: rgba(0, 0, 0, 0.5);
+        left: 0;
+        top: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        z-index: 9999;
+    }
+
+    .menu-wrap.menu-active .menu_list  {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 25px;
+        margin-right: 0;
+
+    }
+    .menu_list_item{
+        margin-top: 20px;
+    }
+
+    .menu_list {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 0;
+        margin-right: 0;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        font-family: "Maven Pro";
+        font-size: 30px;
+    }
+.owl-dots{
+    left: 167px;
+}
+    .menu_list:before{
+        display: none;
+    }
+    .menu_list:after{
+        display: none;
+    }
+    .logotip{
+        display: none;
+    }
+    .hexagon {
+
+        width: 180px;
+        height: 77px;
+
+        transform: rotate(120deg);
+        overflow: hidden;
+        margin: 6px;
+    }
+
+
+    .first-hex {
+        position: relative;
+        padding-right: 35px;
+        padding-left: 35px;
+    }
+
+
+    .second-hex {
+        position: relative;
+        padding-right: 35px;
+        padding-left: 35px;
+    }
+
+
+    .second-hex:before {
+        content: '';
+        width: 43px;
+        height: 1px;
+        background: #3f3f3f;
+        transform: rotate(90deg);
+        position: absolute;
+        bottom: 45px;
+        left: 11px;
+    }
+
+
+    .second-hex:after {
+        content: '';
+        width: 43px;
+        height: 1px;
+        background: #3f3f3f;
+        transform: rotate(90deg);
+        position: absolute;
+        bottom: 45px;
+        right: 11px;
+    }
+
+    .box-row:not(:first-child) {
+        margin-top: -25px;
+    }
+
+    .first-hex:before {
+        content: '';
+        width: 40px;
+        height: 1px;
+        background:#3f3f3f;
+        transform: rotate(90deg);
+        position: absolute;
+        top: 45px;
+        left: 13px;
+    }
+
+    .first-hex:after {
+        content: '';
+        width: 40px;
+        height: 1px;
+        background: #3f3f3f;
+        transform: rotate(90deg);
+        position: absolute;
+        top: 45px;
+        right: 13px;
+    }
+
+    .hex-wrapper:before {
+        content: '';
+        width: 135px;
+        height: 1px;
+        background: #3f3f3f;
+        position: absolute;
+        top: -68px;
+        left: 7px;
+    }
+
+    .hex-wrapper:after {
+        content: '';
+        width: 135px;
+        height: 1px;
+        background: #3f3f3f;
+        position: absolute;
+        top: -68px;
+        right: 7px;
+    }
+
+    #hexagon:before {
+        content: '';
+        width: 90%;
+        height: 1px;
+        background: #e4e9eb;
+        position: absolute;
+        bottom: 10px;
+        left: calc(50% - 45%);
+    }
+
+    #contacts:before {
+        content: '';
+        width: 90%;
+        height: 1px;
+        background: #2b2b2b;
+        position: absolute;
+        top: 10px;
+        left: calc(50% - 45%);
+    }
+    #contacts:after{
+        content: '';
+        width: 90%;
+        height: 1px;
+        background: #2b2b2b;
+        position: absolute;
+        bottom: 10px;
+        left: calc(50% - 45%);
+    }
+
+    .content-about:before {
+        content: '';
+        width: 460px;
+        height: 1px;
+        background: white;
+        transform: rotate(90deg);
+        position: absolute;
+        top: 210px;
+        left: -235px;
+    }
+
+    .content-about:after {
+        content: '';
+        width: 460px;
+        height: 1px;
+        background: white;
+        transform: rotate(90deg);
+        position: absolute;
+        top: 210px;
+        right: -235px;
+    }
+
+    .contacts-form {
+        min-width: 300px;
+    }
+
+    .input {
+        display: block;
+    }
+.content-about{
+    display: block;
+}
+    .input-contact {
+        width: 96%;
+    }
+    #textarea{
+        width: 96%;
+    }
+    #submit{
+        margin-right: 0;
+    }
+    .contacts-form-right{
+        width: 100%;
+        margin-left: 0;
+        margin-top: 80px;
+    }
+    .content-text{
+        padding: 10px;
+    }
+}
+
